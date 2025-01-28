@@ -1,1 +1,2 @@
-# RAG-Implementation
+# Implementing Retrieval-Augmented Generation (RAG) with PDF Processing
+This project demonstrates a step-by-step implementation of a Retrieval-Augmented Generation (RAG) pipeline starting with PDF document processing. It includes features such as session history saving and an agent-based system to handle both simple and complex queries. Additionally, a FastAPI interface was created for seamless integration and deployment.
